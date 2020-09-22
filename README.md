@@ -1,0 +1,1 @@
+# Adatb-zis_rendszerek_I.-gyakorlat
