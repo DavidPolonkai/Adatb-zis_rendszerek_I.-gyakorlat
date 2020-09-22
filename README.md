@@ -1,3 +1,1 @@
-# Adatbazis_rendszerek_I.-gyakorlat
-
-Itt csak a kódok elérhetőek, a határidők és egyéb információk az oldalamon lesznek elérhetőek.
+Hátáridők és információk elérhetőek lesznek az oldalamon, itt csak a kódok lesznek fent és a gyakorlati anyagok

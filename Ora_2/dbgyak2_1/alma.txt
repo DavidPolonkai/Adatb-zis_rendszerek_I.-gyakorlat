@@ -1,0 +1,7 @@
+1 
+1 almafa
+2
+2 katica
+123456
+9 jej
+end
